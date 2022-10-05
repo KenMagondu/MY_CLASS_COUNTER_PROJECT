@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+h3{
+    background-color: #FFE7CC;
+}
+#home_score{
+    background-color: #47B5FF;
+}
+#guest_score{
+     background-color: #47B5FF;
+} 
+}
